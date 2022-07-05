@@ -52,7 +52,8 @@ h3 {
 
 .dream-big {
     background-image: url(images/dream-bg.png);
-    padding: 0px 200px 0px 0px;
+    padding: 0px 150px;
+    margin-right: 0px;
     background-repeat: no-repeat;
     background-position: right;
     background-size: 70px;
